@@ -1,6 +1,7 @@
-<h1 align="center">Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=0&color=ff79c6&center=true&vCenter=true&width=435&lines=Barman Jatin Swain!" alt="Typing SVG" />
-</p></h1>
+<h1 align="center">Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm</h1>  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=0&color=ff79c6&center=true&vCenter=true&width=435&lines=Barman+Jatin+Swain!" alt="Typing SVG" />
+</h1>
 
 ## About Me
 
