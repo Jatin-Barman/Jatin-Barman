@@ -1,4 +1,6 @@
-<h1 align="center">Hello 👋, I'm Barman Jatin Swain!</h1>
+<h1 align="center">Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=0&color=ff79c6&center=true&vCenter=true&width=435&lines=Barman Jatin Swain!" alt="Typing SVG" />
+</p></h1>
 
 ## About Me
 
@@ -41,6 +43,7 @@
 ## Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/barmanjatinswain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ks20soni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/barmanjatinswain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jatin-Barman" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/_khu.sh.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_khu.sh.i" height="30" width="40" /></a> -->
+
 </p>
