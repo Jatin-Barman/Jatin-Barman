@@ -7,7 +7,7 @@
 
 - 🔭 I'm a passionate developer from India, exploring the world of web development and backend systems. I enjoy working with JavaScript, Node.js, Prisma, PostgreSQL, and Redis, Docker.
 
-<h2><i>📝 Languages and Tools </i></h2>
+<h2>📝 Languages and Tools </h2>
 <p float="center">
 <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png">&nbsp;
 <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png">&nbsp;
